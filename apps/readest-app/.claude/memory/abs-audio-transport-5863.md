@@ -61,7 +61,7 @@ origin/main `8d44c6b66`), PR **#5865** (commits `c865945b4` + `50d57e30d` nix ha
   'Back/Forward 10 Seconds' to 34 locales and was reverted). Icons: user picked
   the circular-arrow-with-number style (screenshot) -> `RiReplay15Line` /
   `RiForward30Line` (react-icons/ri; Material has no 15, Tabler's
-  rewind-backward-15 puts the number under the arrow). PlayerView (ABS player)
+  rewind-backward-15 puts the number under the arrow). PlayerView (ABS player)github
   still uses the Tb icons, untouched.
 - docs/read-along-narration.md documents both behaviours.
 
